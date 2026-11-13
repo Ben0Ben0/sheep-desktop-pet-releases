@@ -1,5 +1,8 @@
 {
   "version": "0.1.1",
-  "notes": "첫 공개 설치 파일을 준비하고 있습니다.",
-  "downloads": {}
+  "notes": "양 데스크톱 펫 첫 공개 버전입니다. Windows x64와 Mac Apple Silicon을 지원합니다.",
+  "downloads": {
+    "win32-x64": "https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/tag/v0.1.1",
+    "darwin-arm64": "https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/tag/v0.1.1"
+  }
 }
