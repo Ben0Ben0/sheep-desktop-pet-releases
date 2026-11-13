@@ -6,12 +6,12 @@
 
 ## 다운로드
 
-현재 버전: **0.1.1**
+현재 버전: **0.1.2**
 
 | 운영체제 | 설치 파일 |
 |---|---|
-| Windows x64 | [Windows용 다운로드 · EXE](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.1/sheep-desktop-pet-0.1.1-win-x64.exe) |
-| Mac Apple Silicon | [Mac용 다운로드 · DMG](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.1/sheep-desktop-pet-0.1.1-mac-arm64.dmg) |
+| Windows x64 | [Windows용 다운로드 · EXE](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.2/sheep-desktop-pet-0.1.2-win-x64.exe) |
+| Mac Apple Silicon | [Mac용 다운로드 · DMG](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.2/sheep-desktop-pet-0.1.2-mac-arm64.dmg) |
 
 [전체 버전·변경 내역](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases)
 
