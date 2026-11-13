@@ -1,3 +1,4 @@
+
 # 양 데스크톱 펫
 
 바탕화면에서 자유롭게 돌아다니는 인면양과 함께하세요.
@@ -5,16 +6,16 @@
 
 ## 다운로드
 
-현재 0.1.1 설치 파일은 배포 준비 중입니다.
+현재 버전: **0.1.1**
 
 | 운영체제 | 설치 파일 |
 |---|---|
-| Windows x64 | Windows용 EXE · 배포 준비 중 |
-| Mac Apple Silicon | Mac용 DMG · 배포 준비 중 |
+| Windows x64 | [Windows용 다운로드 · EXE](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.1/sheep-desktop-pet-0.1.1-win-x64.exe) |
+| Mac Apple Silicon | [Mac용 다운로드 · DMG](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases/download/v0.1.1/sheep-desktop-pet-0.1.1-mac-arm64.dmg) |
 
 [전체 버전·변경 내역](https://github.com/Ben0Ben0/sheep-desktop-pet-releases/releases)
 
-설치 파일을 게시하면 위 다운로드 항목에 링크를 연결합니다. Intel Mac용은 제공하지 않습니다.
+Intel Mac용은 제공하지 않습니다. 설치할 때는 위 EXE 또는 DMG를 다운로드하세요.
 
 ## 주요 기능
 
